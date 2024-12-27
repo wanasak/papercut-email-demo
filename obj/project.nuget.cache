@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "syjPkOm7g80=",
+  "success": true,
+  "projectFilePath": "D:\\Demo\\papercut-email-demo\\papercut-email-demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MYCOS-TK\\.nuget\\packages\\fluentemail.core\\3.0.2\\fluentemail.core.3.0.2.nupkg.sha512",
+    "C:\\Users\\MYCOS-TK\\.nuget\\packages\\fluentemail.smtp\\3.0.2\\fluentemail.smtp.3.0.2.nupkg.sha512",
+    "C:\\Users\\MYCOS-TK\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\MYCOS-TK\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\MYCOS-TK\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GhyXh0AfXgPl+rkRqJhKmdgJWmqfQ2AfDjflCwMgCFU=",
+  "Source": "papercut-email-demo",
+  "BasePath": "_content/papercut-email-demo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

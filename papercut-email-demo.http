@@ -1,0 +1,6 @@
+@papercut_email_demo_HostAddress = http://localhost:5221
+
+GET {{papercut_email_demo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
